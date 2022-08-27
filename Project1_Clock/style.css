@@ -1,0 +1,26 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    #0f0225,
+    #290229,
+    #45022c,
+    #670529,
+    #691618
+  );
+}
+h1 {
+  text-align: center;
+  color: rgb(199, 196, 211);
+  font-size: 80px;
+}
+h2 {
+  color: rgb(124, 255, 143);
+  text-align: center;
+  font-size: 150px;
+}
+h3 {
+  color: aquamarine;
+  text-align: center;
+  font-style: italic;
+  font-size: 50px;
+}
